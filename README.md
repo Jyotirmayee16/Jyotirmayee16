@@ -1,3 +1,4 @@
+![logo](https://github.com/Jyotirmayee16/Jyotirmayee16/blob/main/ban1.png?raw=true)
 <h1 align="center">Hi <CODERS> 👋, I'm Jyotirmayee Priyadarshini</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
