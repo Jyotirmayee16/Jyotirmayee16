@@ -1,4 +1,6 @@
-![logo](https://github.com/Jyotirmayee16/Jyotirmayee16/blob/main/ban1.png?raw=true)
+
+
+
 <h1 align="center">Hi <CODERS> 👋, I'm Jyotirmayee Priyadarshini</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -6,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotirmayee16&label=Profile%20views&color=0e75b6&style=flat" alt="jyotirmayee16" /> </p>
 
-- 🔭 I’m currently working on **Travel&Tourism Project**
+- 🔭 I’m currently working on **New Projects**
 
 - 🌱 I’m currently learning **React Js ,Node Js, Mongo DB and Express Js , For Back-end -- J2EE ,Hibernate, Spring and Database-- MYSQL**
 
